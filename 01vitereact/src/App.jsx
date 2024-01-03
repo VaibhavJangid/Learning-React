@@ -1,13 +1,13 @@
 
 
-
+import Test from "./test"
 
 
 function App() {
   
 
   return (
-    <h1>Vaibhav</h1>
+    <Test/>
   )
 }
 
